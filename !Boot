@@ -1,0 +1,12 @@
+Set Dummy$Path <Obey$Dir>.Resources.
+Run Dummy:ResFind Ext2Dir
+Unset Dummy$Path
+|
+Set Ext2Dir$Help <Ext2Dir$Dir>.!Help
+Set Ext2Dir$Version "1.09"
+Set Ext2Dir$Web "http://www.arcsite.de/hp/bracke/programming/mtools.html"
+Set Ext2Dir$Title "Ext2Dir"
+Set Ext2Dir$Publisher "Bent Bracke"
+Set Ext2Dir$Description "Maps extensions to directories by creating the appropriate directories, copying the file to these directories and remove the extensions."
+|
+Iconsprites <Ext2Dir$Dir>.!Sprites
