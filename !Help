@@ -44,7 +44,7 @@
 
    Entry             Action/Meaning                       Default
    -----             --------------                       -------
-   Command line  =>  any other options can be entered.      auto
+   Command line      any other options can be entered.      auto
                      (See the manual for full details.)
 
 
