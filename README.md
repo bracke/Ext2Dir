@@ -55,3 +55,7 @@ From this menu you can pause/continue and abort Ext2Dir.
 ## Commandline use
 Use Ext2Dir -h to get help.
 
+
+## License
+
+MIT: <http://bracke.mit-license.org>
